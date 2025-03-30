@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: demo_dataset      # 数据集名称
+    database: dbt-learn-452007  # 项目ID
+    tables:
+      - name: music_table    # 表名称
