@@ -77,9 +77,9 @@ terraform destroy
 
 
 
-![image-20250329143228410](pics\image-20250329143228410.png)
+![image-20250329143228410](./pics/image-20250329143228410.png)
 
-![image-20250329144717637](pics\image-20250329144717637.png)
+![image-20250329144717637](./pics/image-20250329144717637.png)
 
 ------
 
@@ -109,11 +109,11 @@ airflow scheduler
 airflow webserver
 ```
 
-![image-20250329162859418](pics\image-20250329162859418.png)
+![image-20250329162859418](./pics/image-20250329162859418.png)
 
 Transferred data from GCS to BigQuery:
 
-![image-20250329163006401](pics\image-20250329163006401.png)
+![image-20250329163006401](./pics/image-20250329163006401.png)
 
 ------
 
@@ -129,7 +129,7 @@ dbt clean
 dbt run --models music
 ```
 
-![image-20250329180730049](pics\image-20250329180730049.png)
+![image-20250329180730049](./pics/image-20250329180730049.png)
 
 ------
 
@@ -142,7 +142,7 @@ The dashboard includes two main charts:
 
 🔗 **Live Dashboard:** [Billboard Music Dashboard](https://lookerstudio.google.com/reporting/fdbb81c9-03cf-487a-b38d-5ee90f8daa03) 
 
-![image-20250329200627017](pics\image-20250329200627017.png)
+![image-20250329200627017](./pics/image-20250329200627017.png)
 
 ------
 
